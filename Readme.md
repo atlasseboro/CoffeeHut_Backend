@@ -1,3 +1,3 @@
- # User profiles
- # Payment options
- # Other commerce transactions
+ - User profiles
+ - Payment options
+ - Other commerce transactions
